@@ -20,6 +20,4 @@ Next 14 Server Actions Features
 Infinite Scroll using Framer Motion Animations 
 
 
-<div align="center">
 ![Screenshot (8)](https://github.com/aliallam98/Next-Infinti-Scroll/assets/143597465/79bffd3f-52cc-4de4-8118-25766ba38ddd)
-</div>
