@@ -22,5 +22,5 @@ Infinite Scroll using Framer Motion Animations
 
 
 <div align="center">
-    <img width="200" src="https://drive.google.com/file/d/1Cf15Os0ABGv39RQkn2rf2EblyaHwgRMM/view" alt="image">
+    ![Screenshot (8)](https://github.com/aliallam98/Next-Infinti-Scroll/assets/143597465/93d1e23d-1cbd-4503-a72c-0283ff930134)
 </div>
