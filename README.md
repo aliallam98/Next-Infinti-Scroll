@@ -20,4 +20,8 @@ Next 14 Server Actions Features
 Infinite Scroll using Framer Motion Animations 
 
 
-![Screenshot (8)](https://github.com/aliallam98/Next-Infinti-Scroll/assets/143597465/79bffd3f-52cc-4de4-8118-25766ba38ddd)
+![Screenshot (8)]()
+
+<div align="center">
+    <img width="200" src="http://material-bread.org/logo-shadow.svg](https://github.com/aliallam98/Next-Infinti-Scroll/assets/143597465/79bffd3f-52cc-4de4-8118-25766ba38ddd)https://github.com/aliallam98/Next-Infinti-Scroll/assets/143597465/79bffd3f-52cc-4de4-8118-25766ba38ddd" alt="Material Bread logo">
+</div>
